@@ -1,6 +1,6 @@
-# AwesomeSocialApp 🚀
+# ThreadsApp 🚀
 
-Welcome to AwesomeSocialApp! This is a full-stack social media application built with the MERN stack (MongoDB, Express.js, React.js, Node.js), Socket.io for real-time communication, and Chakra UI for beautiful user interfaces.
+Welcome to Threads! This is a full-stack social media application built with the MERN stack (MongoDB, Express.js, React.js, Node.js), Socket.io for real-time communication, and Chakra UI for beautiful user interfaces.
 
 ## Features
 
