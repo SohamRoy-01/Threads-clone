@@ -28,7 +28,7 @@ Welcome to Threads! This is a full-stack social media application built with the
   
 ## Setup
 
-1. Clone the repository: git clone https://github.com/SohamRoy-01/Threads-clone.git
+1. Clone the repository: git clone ```https://github.com/SohamRoy-01/Threads-clone.git```
 2. Navigate to the project directory: cd Threads-clone
 3. Create a .env file in the root directory and add the following environment variables:
 
